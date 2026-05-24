@@ -1,4 +1,4 @@
-Repo z kodem dla lab4 znajduje sie pod tym adresem:
+Repo z kodem dla lab4 i lab5 znajduje sie pod tym adresem:
 
 https://github.com/oszczeda/nextjs-firebase-poem-app
 
